@@ -1830,10 +1830,5 @@ function lang_translate(target_file, target_lang) {
         }
         $("#curLang").html(available_langs[target_lang]["name"]);
     });
-body.right-to-left my-element li {
-    float:right;
-    direction: rtl;
-} 
 
-});
 }
