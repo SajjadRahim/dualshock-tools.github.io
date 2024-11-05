@@ -48,7 +48,6 @@
     "Do you have any suggestion or issue? Drop me a message via email or discord.": "هل لديك أي اقتراح أو مشكلة؟ أرسل لي رسالة عبر البريد الإلكتروني أو عبر discord.",
     "Cheers!": "شكرًا!",
     "Support this project": "اِدعم هذا المشروع",
-	
     "unknown": "غير معلوم",
     "original": "يد تحكم أصلية",
     "clone": "يد تحكم مقلدة",
@@ -59,7 +58,6 @@
     "HW Version": "إصدار العتاد",
     "SW Version": "إصدار البرمجيات",
     "Device Type": "نوع الجهاز",
-	
     "Range calibration completed": "أكملت معايرة المدى",
     "Range calibration failed: ": "فشل في معايرة المدى،",
     "Cannot unlock NVS": "لا يمكن فتح قفل NVS",
@@ -97,7 +95,6 @@
     "Before doing the permanent calibration, try the temporary one to ensure that everything is working well.": "قبل إجراء المعايرة الدائمة، جرب المعايرة المؤقتة لضمان أن يعمل كل شيء بشكل جيد.",
     "Understood": "مفهوم",
     "Version": "الإصدار",
-	
     "Frequently Asked Questions": "الأسئلة الشائعة",
     "Close": "إغلاق",
     "Welcome to the F.A.Q. section! Below, you'll find answers to some of the most commonly asked questions about this website. If you have any other inquiries or need further assistance, feel free to reach out to me directly. Your feedback and questions are always welcome!": "مرحبا بكم في قسم الأسئلة الشائعة، أدناه ستجد إجابات على بعض الأسئلة الأكثر شيوعا حول هذا الموقع. إذا كان لديك أي استفسارات أخرى أو تحتاج إلى المزيد من المساعدة، لا تتردد في التواصل معي مباشرة. ملاحظاتك وأسئلتك تلقى الترحيب دائماً!",
@@ -105,7 +102,7 @@
     "Behind the scenes, this website is the culmination of one year of dedicated effort in reverse-engineering DualShock controllers for fun/hobby from a random guy on the internet.": "خلف الكواليس،هذا الموقع جاء بفضل بسنة من الجهد المتفاني في هندسة العكسية ليد تحكم DualShock من أجل المتعة/الهواية من شخص عشوائي على شبكة الإنترنت.",
     "Through": "عَبْر",
     "this research": "هذه الأبحاث",
-    ", it was discovered that there exist some undocumented commands on DualShock controllers that can be sent via USB and are used during factory assembly process. If these commands are sent, the controller starts the recalibration of analog sticks.": "قد اكتشفت أن هناك بعض الأوامر غير الموثّقة على يد تحكم DualShock التي يمكن إرسالها عن طريق USB واستخدامها أثناء عملية التصنيع. إذا تم إرسال هذه الأوامر، ستبدأ يد التحكم في إعادة معايرة العصا.",
+    ", it was discovered that there exist some undocumented commands on DualShock controllers that can be sent via USB and are used during factory assembly process. If these commands are sent, the controller starts the recalibration of analog sticks.": " قد اكتشفت أن هناك بعض الأوامر غير الموثّقة على يد تحكم DualShock التي يمكن إرسالها عن طريق USB واستخدامها أثناء عملية التصنيع. إذا تم إرسال هذه الأوامر، ستبدأ يد التحكم في إعادة معايرة العصا.",
     "While the primary focus of this research wasn't initially centered on recalibration, it became apparent that a service offering this capability could greatly benefit numerous individuals. And thus, here we are.": "على الرغم من أن التركيز الأساسي لهذه الأبحاث لم يكن في البداية مركزاً على إعادة المعايرة، وأصبح من الواضح أن القدرة التي توفرها هذه الخدمة يمكن أن تفيد العديد من الاشخاص. وهكذا، ها نحن ها.",
     "Does the calibration remain effective during gameplay on PS4/PS5?": "هل تبقى المعايرة فعالة في أثناء اللعب على PS4/PS5؟",
     "Yes, if you tick the checkbox \"Write changes permanently in the controller\". In that case, the calibration is flashed directly in the controller firmware. This ensures that it remains in place regardless of the console it's connected to.": "نعم، إذا قمت بوضع علامة في مربع الاختيار \"أبقاء الكتابة بشكل دائم على يد التحكم\". في هذه الحالة، يتم تمرير المعايرة مباشرة في برمجيات يد التحكم. وهذا يضمن حفظ المعلومات في يد التحكم بغض النظر عن أي جهاز مرتبطة بها.",
@@ -116,7 +113,6 @@
     "Unfortunately, the clones cannot be calibrated anyway, because they only clone the behavior of a DualShock4 during a normal gameplay, not all the undocumented functionalities.": "لسوء الحظ، لا يمكن معايرة النسخ المقلدة على أي حال، لأنها تقلد فقط سلوك DualShock4 في أثناء اللعب العادي، وليس كل وظائفها.",
     "If you want to extend this detection functionality to DualSense, please ship me a fake DualSense and you'll see it in few weeks.": "إذا كنت ترغب في أضافة وظيفة الكشف هذه إلى DualSense، فيرجى شحن نسخ DualSense مقلدة ألي وستراها في غضون بضعة أسابيع.",
     "What development is in plan?": "ما هي التطورات في الخِطَّة؟",
-	
     "I maintain two separate to-do lists for this project, although the priority has yet to be established.": "وأحتفظ بخطتين منفصلتين لهذا المشروع، على الرغْم أنه لم يتم بعد تحديد الأولوية.",
     "The first list is about enhancing support for DualShock4 and DualSense controllers:": "القائمة الأولى تتعلق بتعزيز الدعم لـDualShock4 وDualSense:",
     "Implement calibration of L2/R2 triggers.": "أضافة معايرة لأزرار الـL2/R2.",
@@ -138,20 +134,17 @@
     "Translate this website in your language": "ترجمة هذا الموقع بلغتك",
     ", to help more people like you!": "، لمساعدة المزيد من الناس من أمثالك!",
     "This website uses analytics to improve the service.": "يستخدم هذا الموقع التحليلات لتحسين الخدمة.",
-	
     "Board Model": "نوع اللوحة",
     "This feature is experimental.": "هذه الخاصية تجريبية.",
     "Please let me know if the board model of your controller is not detected correctly.": "من فضلك أخبرني إذا لم يتم اكتشاف نوع لوحة التحكم بشكل صحيح.",
-	
     "Board model detection thanks to": "كشف نوع اللوحة بفضل",
     "Please connect the device using a USB cable.": "يُرجى توصيل اليد باستخدام كابل USB.",
     "This DualSense controller has outdated firmware.": "يد تحكم DualSense هذه تستخدم برمجيات قديمة.",
     "Please update the firmware and try again.": "الرجاء حدث البرمجيات وحاول مرة أخرى.",
     "Joystick Info": "معلومات عصا التحكم",
-    "Err R:": "خطأ R:",
-    "Err L:": "خطأ L:",
-    "Check circularity": "التحقق من الدورة الاستدارة",
-	
+    "Err R:": "نسبة خطأ عصا اليمين:",
+    "Err L:": "نسبة خطأ عصا اليسار:",
+    "Check circularity": "التحقق من الدوران",
     "Can I reset a permanent calibration to previous calibration?": "هل يمكنني إعادة تعيين معايرة دائمة إلى المعايرة السابقة؟",
     "No.": "لا.",
     "Can you overwrite a permanent calibration?": "هل يمكنك استبدال معايرة دائمة؟",
@@ -167,19 +160,15 @@
     "You have to rotate the joysticks before you press \"Done\".": "عليك تدوير عصا التحكم قبل أن تضغط على \"تم\".",
     "Make sure to touch the edges of the joystick frame and rotate slowly, preferably in each direction - clockwise and anti-clockwise.": "تحقق من لمس حواف إطار عصا التحكم وتدويرها ببطء، ويفضل أن يكون ذلك في اتجاه عقارب الساعة وعلى عكس اتجاه عقرب الساعة.",
     "Only after you have done that, you click on \"Done\".": "فقط بعد أن تقوم بذلك، انقر فوق \"تم\".",
-
     "Changes saved successfully": "تم حفظ التغييرات بنجاح",
     "Error while saving changes:": "حدث خطأ أثناء حفظ التغييرات:",
     "Save changes permanently": "حفظ التغييرات بشكل دائم",
     "Reboot controller": "إعادة تشغيل عصا التحكم",
-
     "Controller Info": "معلومات عصا التحكم",
     "Debug Info": "معلومات التصحيح",
-    "Debug buttons": "أزرار تصحيح الأخطاء",
     "Software": "البرمجيات",
     "Hardware": "العتاد",
     "FW Build Date": "تاريخ إنشاء البرمجيات",
-
     "FW Type": "نوع البرمجيات",
     "FW Series": "سلسلة البرمجيات",
     "FW Version": "إصدار البرمجيات",
@@ -189,7 +178,6 @@
     "Venom FW Version": "إصدار برمجيات Venom ",
     "Spider FW Version": "إصدار برمجيات Spider",
     "Touchpad FW Version": "إصدار برمجيات الـTouchpad",
-	
     "Serial Number": "الرقم التسلسلي",
     "MCU Unique ID": "معرف MCU",
     "PCBA ID": "PCBA ID",
@@ -200,6 +188,5 @@
     "Touchpad ID": "Touchpad ID",
     "Bluetooth Address": "عنوان البلوتوث",
     "Show all": "عرض الكل",
-	
     "": ""
 }
