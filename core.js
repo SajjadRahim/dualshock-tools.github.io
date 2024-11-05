@@ -1830,10 +1830,10 @@ function lang_translate(target_file, target_lang) {
         }
         $("#curLang").html(available_langs[target_lang]["name"]);
     });
-jQuery(function(){
-
-    jQuery("html[lang=ar_ar]").attr("dir", "rtl")
-            .find("body").addClass("right-to-left");
+body.right-to-left my-element li {
+    float:right;
+    direction: rtl;
+} 
 
 });
 }
