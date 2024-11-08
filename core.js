@@ -1757,7 +1757,7 @@ function lang_init() {
 
 function lang_set(l, skip_modal=false) {
     la("lang_set", {"l": l})
-    if(l == "en_us") {
+    if(l == "ar_ar") {
         lang_reset_page();
     } else {
         var file = available_langs[l]["file"];
