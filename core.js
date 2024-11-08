@@ -1744,7 +1744,7 @@ function lang_init() {
 
     var langs = Object.keys(available_langs);
     var olangs = "";
-    olangs += '<li><a class="dropdown-item" href="#" onclick="lang_set(\'en_us\');">English</a></li>';
+    olangs += '<li><a class="dropdown-item" href="#" onclick="lang_set(\'ar_ar\');">English</a></li>';
     for(i=0;i<langs.length;i++) {
         name = available_langs[langs[i]]["name"];
         olangs += '<li><a class="dropdown-item" href="#" onclick="lang_set(\'' + langs[i] + '\');">' + name + '</a></li>';
