@@ -17,7 +17,7 @@ var gu = 0;
 
 // Alphabetical order
 var available_langs = {
-	"ar_ar": { "name": "العربية", "file": "ar_ar.json"},
+    "ar_ar": { "name": "العربية", "file": "ar_ar.json"},
     "bg_bg": { "name": "Български", "file": "bg_bg.json"},
     "cz_cz": { "name": "Čeština", "file": "cz_cz.json"},
     "de_de": { "name": "Deutsch", "file": "de_de.json"},
